@@ -14,7 +14,7 @@ The application code has been written following MVP architectural pattern for th
 This application uses Swift Package Manager as dependency manager.
 And rely on the following framework:
 
-*[https://github.com/kevinlegoff-tdl/KLGBreakingBadAPI](https://github.com/kevinlegoff-tdl/KLGBreakingBadAPI)
+* [https://github.com/kevinlegoff-tdl/KLGBreakingBadAPI](https://github.com/kevinlegoff-tdl/KLGBreakingBadAPI)
 
 ## Testing
 
