@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "KLBreakingBadAPI",
+        "repositoryURL": "git@github.com:kevinlegoff-tdl/KLGBreakingBadAPI.git",
+        "state": {
+          "branch": "master",
+          "revision": "0d726fa45ecaef665afe4a32f5f245e8ee10433e",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
